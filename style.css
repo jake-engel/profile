@@ -124,4 +124,23 @@ img {
   font-size: 35px;
 }
 
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: 30px;
+  top: 0;
+  bottom: 0;
+  line-height:100px;
+  font-weight: bold;
+}
+
+#sidebar {
+  font-size: 40px;
+  text-align: justify;
+}
+
+#page-content {
+  margin-left: 100px;
+}
+
 
